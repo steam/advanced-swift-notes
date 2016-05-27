@@ -1,6 +1,6 @@
 #Swift Style Guide
 
-1. When writing this book, and when writing Swift code for our own projects, we try to stick to the following rules:
+When writing this book, and when writing Swift code for our own projects, we try to stick to the following rules:
 
 1. Readability is most important. This is helped by brevity.
 
